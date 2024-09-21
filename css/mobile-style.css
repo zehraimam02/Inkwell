@@ -1,0 +1,77 @@
+@media only screen and (max-width: 768px) {
+    header .navbar-brand {
+        padding-left: 1em;
+    }
+    .section-1 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+    }
+    .section-2 .cover {
+        background-position: -25vmin -10vmin;
+    }
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+    }
+    .numbers .rect h1 {
+        font-size: 2rem;
+    }
+
+    .section-3 {
+        height: inherit;
+        padding: 10vmin !important;
+    }
+    .section-3 .row h1 {
+        padding: 6vmin 4vmin;
+    }
+    .section-3 .row .col-md-6 {
+        text-align: center !important;  /* '!important' used to override Bootstrap properties */
+    }
+    .section-3 .desktop i {
+        font-size: 8vmin;
+    }
+
+    .section-4 .team {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        margin-right: 20vmin !important;
+    }
+    .section-4 .carousel-inner {
+        width: 24rem;
+    }
+
+    footer .column {
+        display: flex;
+        flex-direction: row; /* This will make the icons appear in a row */
+        align-items: center; /* Optionally align items vertically in the center */
+    }
+    footer .column i {
+        padding: 0 0.5em; /* Adds horizontal padding between the icons */
+    }
+
+}
+
+
+@media only screen and (max-width: 425px) {
+    .section-4 .team {     
+        margin-left: 20vmin !important;
+        padding-left: 10vmin !important;
+    }
+
+    footer .row .col-md-2 {
+        margin-top: 8vmin;
+    }
+}
+
+
+@media only screen and (max-width: 320px) {
+    .section-4 .card {
+        width: 18rem;
+        margin-left: -30vmin;
+    }
+    .section-4 .carousel-inner {
+        margin-left: -30vmin;
+    }
+}

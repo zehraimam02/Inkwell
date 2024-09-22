@@ -18,14 +18,14 @@ Inkwell is a sleek, responsive frontend project for an online bookstore, built u
 - Open the index.html file in your browser to view the project locally.
   
 ## **Usage**
-Navigation Bar: Explore different genres, authors, and price sections.
-Testimonial Carousel: View featured customer reviews with an interactive carousel.
+- Navigation Bar: Explore different genres, authors, and price sections.
+- Testimonial Carousel: View featured customer reviews with an interactive carousel.
 
 ## **Acknowledgements**
-This project is based on the comprehensive tutorial by Daily Tuition. You can find the original tutorial here:
-https://www.youtube.com/watch?v=zhllkjYYUVE&list=LL
+This project is based on the comprehensive tutorial by Daily Tuition. You can find the original tutorial here:\n
+https://www.youtube.com/watch?v=zhllkjYYUVE&list=LL \n
 Modifications were made to customize the design and structure while learning and implementing best practices.
 
 ## **License**
-© 2024 Inkwell.
+© 2024 Inkwell.\n
 This project is free for educational purposes. Please do not use it for commercial purposes without appropriate credit.

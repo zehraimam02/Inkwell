@@ -23,12 +23,9 @@ Inkwell is a sleek, responsive frontend project for an online bookstore, built u
 
 ## **Acknowledgements**
 This project is based on the comprehensive tutorial by Daily Tuition. You can find the original tutorial here:  
-
 https://www.youtube.com/watch?v=zhllkjYYUVE&list=LL  
-
 Modifications were made to customize the design and structure while learning and implementing best practices.
 
 ## **License**
 © 2024 Inkwell.  
-
 This project is free for educational purposes. Please do not use it for commercial purposes without appropriate credit.
